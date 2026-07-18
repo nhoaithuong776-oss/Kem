@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-18T14:04:18.672Z",
+    "lastUpdate": "2026-07-18T14:09:36.734Z",
     "accounts": [
         {
             "id": "959155632",
@@ -23,6 +23,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "0bf65bf439ceedef4eb9f7460a5782a3"
+        },
+        {
+            "id": "776733243",
+            "username": "HuyDepZai",
+            "password": "KEY_KEMLEGEND_150",
+            "type": "vip",
+            "expiry": "2026-08-17T14:09:36.733Z",
+            "created": "2026-07-18T14:09:36.733Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
         }
     ]
 }
