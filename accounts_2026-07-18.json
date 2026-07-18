@@ -1,0 +1,28 @@
+{
+    "version": "2.2",
+    "lastUpdate": "2026-07-18T12:42:51.509Z",
+    "accounts": [
+        {
+            "id": "169987542",
+            "username": "KemVoTu",
+            "password": "020905",
+            "type": "vip",
+            "expiry": "forever",
+            "created": "2026-07-18T12:36:09.987Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "cde8a2a3191f25b97389e29862b37388"
+        },
+        {
+            "id": "488867526",
+            "username": "CuHuyGay",
+            "password": "KeyThang150",
+            "type": "vip",
+            "expiry": "2026-08-17T12:41:28.867Z",
+            "created": "2026-07-18T12:41:28.867Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "36eb4cd360b76317844c0f7a17074e03"
+        }
+    ]
+}
