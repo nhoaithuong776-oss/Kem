@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-19T09:47:16.841Z",
+    "lastUpdate": "2026-07-19T09:55:22.379Z",
     "accounts": [
         {
             "id": "458671828",
@@ -25,15 +25,15 @@
             "deviceId": "cde8a2a3191f25b97389e29862b37388"
         },
         {
-            "id": "436840501",
-            "username": "CUHUYBAO-KEMLEGEND",
-            "password": "KEMLEGEND-APP-MENU",
+            "id": "922379897",
+            "username": "DUDIMEMAY-APP-MENU",
+            "password": "CAILONBAGIANO-APP-KEMLEGEND",
             "type": "vip",
-            "expiry": "2026-08-18T09:47:16.840Z",
-            "created": "2026-07-19T09:47:16.840Z",
+            "expiry": "2026-08-18T09:55:22.379Z",
+            "created": "2026-07-19T09:55:22.379Z",
             "status": "active",
             "allowedFunctions": [],
-            "deviceId": "36eb4cd360b76317844c0f7a17074e03"
+            "deviceId": "36eb4cd360b76317844cØf7a17074e03"
         }
     ]
 }
