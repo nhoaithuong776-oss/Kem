@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-19T08:12:51.955Z",
+    "lastUpdate": "2026-07-19T08:23:51.857Z",
     "accounts": [
         {
             "id": "458671828",
@@ -25,12 +25,12 @@
             "deviceId": "cde8a2a3191f25b97389e29862b37388"
         },
         {
-            "id": "771954527",
-            "username": "HUYDEPZAI-APP-MENU",
-            "password": "KEMLEGEND-APP-MENU-150",
+            "id": "431857069",
+            "username": "HUYCUTE-APP-MENU",
+            "password": "KEY-150-THANG-KEMLEGEND",
             "type": "vip",
-            "expiry": "2026-08-18T08:12:51.953Z",
-            "created": "2026-07-19T08:12:51.954Z",
+            "expiry": "2026-08-18T08:23:51.857Z",
+            "created": "2026-07-19T08:23:51.857Z",
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "36eb4cd360b76317844cØf7a17074e03"
