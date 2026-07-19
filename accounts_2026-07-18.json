@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-18T15:42:20.426Z",
+    "lastUpdate": "2026-07-19T08:12:51.955Z",
     "accounts": [
         {
             "id": "458671828",
@@ -14,17 +14,6 @@
             "deviceId": "0bf65bf439ceedef4eb9f7460a5782a3"
         },
         {
-            "id": "776733243",
-            "username": "HuyDepZai",
-            "password": "KEY_KEMLEGEND_150",
-            "type": "vip",
-            "expiry": "2026-08-17T14:09:36.733Z",
-            "created": "2026-07-18T14:09:36.733Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
-        },
-        {
             "id": "340425547",
             "username": "KEY_KEMLEGEND_2DAYS",
             "password": "KEY_2DAYS_KEMCUTE",
@@ -33,7 +22,18 @@
             "created": "2026-07-18T15:42:20.425Z",
             "status": "active",
             "allowedFunctions": [],
-            "deviceId": ""
+            "deviceId": "cde8a2a3191f25b97389e29862b37388"
+        },
+        {
+            "id": "771954527",
+            "username": "HUYDEPZAI-APP-MENU",
+            "password": "KEMLEGEND-APP-MENU-150",
+            "type": "vip",
+            "expiry": "2026-08-18T08:12:51.953Z",
+            "created": "2026-07-19T08:12:51.954Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "36eb4cd360b76317844cØf7a17074e03"
         }
     ]
 }
