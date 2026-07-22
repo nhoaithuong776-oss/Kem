@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-19T10:49:21.076Z",
+    "lastUpdate": "2026-07-22T09:48:48.560Z",
     "accounts": [
         {
             "id": "458671828",
@@ -25,12 +25,12 @@
             "deviceId": "cde8a2a3191f25b97389e29862b37388"
         },
         {
-            "id": "161075859",
-            "username": "KEY-150-HUY-KEMLEGEND",
-            "password": "KEY-MENU-KEMLEGENDSHOP",
+            "id": "728560305",
+            "username": "HUYCUTEO-150",
+            "password": "KEM-LEGEND-150",
             "type": "vip",
-            "expiry": "2026-08-18T10:49:21.075Z",
-            "created": "2026-07-19T10:49:21.075Z",
+            "expiry": "2026-08-18T09:48:48.560Z",
+            "created": "2026-07-22T09:48:48.560Z",
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
