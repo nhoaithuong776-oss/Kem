@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-22T09:48:48.560Z",
+    "lastUpdate": "2026-07-22T15:21:28.507Z",
     "accounts": [
         {
             "id": "458671828",
@@ -34,6 +34,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
+        },
+        {
+            "id": "688505897",
+            "username": "kemvotu",
+            "password": "9999",
+            "type": "vip",
+            "expiry": "forever",
+            "created": "2026-07-22T15:21:28.505Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "cde8a2a3191f25b97389e29862b37388"
         }
     ]
 }
