@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-22T15:21:28.507Z",
+    "lastUpdate": "2026-07-23T03:18:56.139Z",
     "accounts": [
         {
             "id": "458671828",
@@ -14,17 +14,6 @@
             "deviceId": "0bf65bf439ceedef4eb9f7460a5782a3"
         },
         {
-            "id": "340425547",
-            "username": "KEY_KEMLEGEND_2DAYS",
-            "password": "KEY_2DAYS_KEMCUTE",
-            "type": "vip",
-            "expiry": "2026-07-20T15:42:20.425Z",
-            "created": "2026-07-18T15:42:20.425Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "cde8a2a3191f25b97389e29862b37388"
-        },
-        {
             "id": "728560305",
             "username": "HUYCUTEO-150",
             "password": "KEM-LEGEND-150",
@@ -36,12 +25,12 @@
             "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
         },
         {
-            "id": "688505897",
-            "username": "kemvotu",
-            "password": "9999",
+            "id": "736138647",
+            "username": "kemcute",
+            "password": "0909",
             "type": "vip",
             "expiry": "forever",
-            "created": "2026-07-22T15:21:28.505Z",
+            "created": "2026-07-23T03:18:56.138Z",
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "cde8a2a3191f25b97389e29862b37388"
