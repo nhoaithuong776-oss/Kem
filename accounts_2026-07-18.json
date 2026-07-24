@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-24T11:15:12.385Z",
+    "lastUpdate": "2026-07-24T12:40:02.047Z",
     "accounts": [
         {
             "id": "458671828",
@@ -45,6 +45,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "e682d886d8100884e59ef04c8d6e0448"
+        },
+        {
+            "id": "802043230",
+            "username": "KEY-1DAYS-ANHTIEN",
+            "password": "KEY-SETUP-KEMLEGEND",
+            "type": "vip",
+            "expiry": "2026-07-25T12:40:02.043Z",
+            "created": "2026-07-24T12:40:02.043Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "850972304dacd1bb4e92457dcf9b59de"
         }
     ]
 }
