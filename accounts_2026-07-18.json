@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-25T15:20:49.283Z",
+    "lastUpdate": "2026-07-25T17:15:30.078Z",
     "accounts": [
         {
             "id": "728560305",
@@ -25,17 +25,6 @@
             "deviceId": "cde8a2a3191f25b97389e29862b37388"
         },
         {
-            "id": "802043230",
-            "username": "KEY-1DAYS-ANHTIEN",
-            "password": "KEY-SETUP-KEMLEGEND",
-            "type": "vip",
-            "expiry": "2026-07-25T12:40:02.043Z",
-            "created": "2026-07-24T12:40:02.043Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "850972304dacd1bb4e92457dcf9b59de"
-        },
-        {
             "id": "849282343",
             "username": "kemvotu",
             "password": "020909",
@@ -45,6 +34,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "77ce9fd044f3f056730e3310b933988b"
+        },
+        {
+            "id": "730078815",
+            "username": "KEY-1DAYS-TIENCUTE",
+            "password": "KEY-SETUP-KEMLEGEND",
+            "type": "vip",
+            "expiry": "2026-07-26T17:15:30.077Z",
+            "created": "2026-07-25T17:15:30.077Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "850972304dacd1bb4e92457dcf9b59de"
         }
     ]
 }
