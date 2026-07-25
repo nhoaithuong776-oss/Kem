@@ -1,18 +1,7 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-24T12:40:02.047Z",
+    "lastUpdate": "2026-07-25T15:20:49.283Z",
     "accounts": [
-        {
-            "id": "458671828",
-            "username": "Kemvotu",
-            "password": "020909",
-            "type": "vip",
-            "expiry": "forever",
-            "created": "2026-07-18T14:04:18.671Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "0bf65bf439ceedef4eb9f7460a5782a3"
-        },
         {
             "id": "728560305",
             "username": "HUYCUTEO-150",
@@ -36,17 +25,6 @@
             "deviceId": "cde8a2a3191f25b97389e29862b37388"
         },
         {
-            "id": "712383050",
-            "username": "KEY-1DAYS-KEMLEGEND",
-            "password": "KEY-SETUP-KEMLEGEND",
-            "type": "vip",
-            "expiry": "2026-07-25T11:15:12.383Z",
-            "created": "2026-07-24T11:15:12.383Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "e682d886d8100884e59ef04c8d6e0448"
-        },
-        {
             "id": "802043230",
             "username": "KEY-1DAYS-ANHTIEN",
             "password": "KEY-SETUP-KEMLEGEND",
@@ -56,6 +34,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "850972304dacd1bb4e92457dcf9b59de"
+        },
+        {
+            "id": "849282343",
+            "username": "kemvotu",
+            "password": "020909",
+            "type": "vip",
+            "expiry": "forever",
+            "created": "2026-07-25T15:20:49.282Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "77ce9fd044f3f056730e3310b933988b"
         }
     ]
 }
