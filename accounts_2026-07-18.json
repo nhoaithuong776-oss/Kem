@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-27T07:12:22.784Z",
+    "lastUpdate": "2026-07-27T07:18:10.893Z",
     "accounts": [
         {
             "id": "728560305",
@@ -45,6 +45,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "d9682416272b2b778b3f8445dadc359e"
+        },
+        {
+            "id": "690892027",
+            "username": "KEY-1TUAN-KHOACUTO",
+            "password": "KEY-SETUP-KEMLEGEND",
+            "type": "vip",
+            "expiry": "2026-08-03T07:18:10.892Z",
+            "created": "2026-07-27T07:18:10.892Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "88cfd5185a8d3ee998216d68bbab9865"
         }
     ]
 }
