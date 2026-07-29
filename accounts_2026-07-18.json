@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-07-27T07:18:10.893Z",
+    "lastUpdate": "2026-07-29T18:17:58.886Z",
     "accounts": [
         {
             "id": "728560305",
@@ -56,6 +56,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "88cfd5185a8d3ee998216d68bbab9865"
+        },
+        {
+            "id": "078884667",
+            "username": "KEY-5DAYS-MKHANGCUTE-VIP",
+            "password": "KEY-5DAYS-KEMLEGEND-VIP",
+            "type": "vip",
+            "expiry": "2026-08-03T18:17:58.884Z",
+            "created": "2026-07-29T18:17:58.884Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "ef9bbbb36da81a26c6d4b5324acb7f8c"
         }
     ]
 }
