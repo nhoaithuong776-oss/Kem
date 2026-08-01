@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-08-01T09:06:31.772Z",
+    "lastUpdate": "2026-08-01T13:19:21.433Z",
     "accounts": [
         {
             "id": "728560305",
@@ -69,12 +69,12 @@
             "deviceId": "ef9bbbb36da81a26c6d4b5324acb7f8c"
         },
         {
-            "id": "191771345",
-            "username": "KEY-FREE-THIENBAO-1DAYS",
-            "password": "KEY-SETUP-KEMLEGEN-FREE",
+            "id": "361431832",
+            "username": "KEY-1DAYS-THIENBAO-FREE",
+            "password": "KEY-SETUP-KEMLEGEND-FREE",
             "type": "vip",
-            "expiry": "2026-08-02T09:06:31.771Z",
-            "created": "2026-08-01T09:06:31.771Z",
+            "expiry": "2026-08-02T13:19:21.431Z",
+            "created": "2026-08-01T13:19:21.431Z",
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "d56ca53b187b094fd0d9cf6ca4d2a1a4"
