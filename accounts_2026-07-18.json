@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-08-02T07:42:06.735Z",
+    "lastUpdate": "2026-08-02T08:21:49.408Z",
     "accounts": [
         {
             "id": "728560305",
@@ -69,17 +69,6 @@
             "deviceId": "ef9bbbb36da81a26c6d4b5324acb7f8c"
         },
         {
-            "id": "039055806",
-            "username": "KEY-1DAYS-NGOCLONG-VIP",
-            "password": "KEY-SETUP-KEMLEGEND-1DAYS",
-            "type": "vip",
-            "expiry": "2026-08-03T07:33:59.055Z",
-            "created": "2026-08-02T07:33:59.055Z",
-            "status": "active",
-            "allowedFunctions": [],
-            "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
-        },
-        {
             "id": "519677747",
             "username": "KEY-5DAYS-THIENCUTEO-VIP",
             "password": "KEY-SETUP-KEMLEGEND-5DAYS",
@@ -89,6 +78,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "80af433e092b858a4a7f58de49833681"
+        },
+        {
+            "id": "909406643",
+            "username": "KEY-THUNGHIEM-1DAYS-XUANQUI",
+            "password": "KEY-SETUP-KEMLEGEND-VIP",
+            "type": "vip",
+            "expiry": "2026-08-03T08:21:49.406Z",
+            "created": "2026-08-02T08:21:49.406Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "341efbf6685b5bbf9a4969744d62b839"
         }
     ]
 }
