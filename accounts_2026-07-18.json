@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-08-02T08:21:49.408Z",
+    "lastUpdate": "2026-08-02T08:23:30.056Z",
     "accounts": [
         {
             "id": "728560305",
@@ -89,6 +89,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "341efbf6685b5bbf9a4969744d62b839"
+        },
+        {
+            "id": "010055087",
+            "username": "TK-THIENLONG-1DAYS-VIP",
+            "password": "KEY-KEMLEGEND-SETUP-PRIME",
+            "type": "vip",
+            "expiry": "2026-08-03T08:23:30.055Z",
+            "created": "2026-08-02T08:23:30.055Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "c22237076c3d7f1e2046b470617c8e5b"
         }
     ]
 }
