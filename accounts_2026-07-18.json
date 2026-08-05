@@ -1,6 +1,6 @@
 {
     "version": "2.2",
-    "lastUpdate": "2026-08-05T12:57:36.533Z",
+    "lastUpdate": "2026-08-05T13:00:20.322Z",
     "accounts": [
         {
             "id": "728560305",
@@ -111,6 +111,17 @@
             "status": "active",
             "allowedFunctions": [],
             "deviceId": "341efbf6685b5bbf9a4969744d62b839"
+        },
+        {
+            "id": "820320975",
+            "username": "KEY-THUNGHIEM-1DAYS-THANHDAT",
+            "password": "KEY-SETUP-KEMLEGEND-PRIME",
+            "type": "vip",
+            "expiry": "2026-08-06T13:00:20.320Z",
+            "created": "2026-08-05T13:00:20.320Z",
+            "status": "active",
+            "allowedFunctions": [],
+            "deviceId": "d9682416272b2b778b3f8445dadc359e"
         }
     ]
 }
